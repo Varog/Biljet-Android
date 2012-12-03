@@ -1,0 +1,23 @@
+<resources>
+
+    <string name="app_name">Biljet </string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_menu">Biljet</string>
+    <string name="textoSelOpcion">Elija una opción:</string>
+    <string name="title_activity_seccion1">Biljet - Seccion 1</string>
+    <string name="title_activity_seccion2">Biljet - Seccion 2</string>
+    <string name="txtSec1">Seccion 1:</string>
+    <string name="txtSec2">Seccion 2:</string>
+    <string name="descripSec1">Contenido de la seccion 1</string>
+    <string name="descripSec2">Contenido de la seccion 2</string>
+    <string name="volverButton"> Volver al Menu </string>
+
+
+    
+    <string name="contentDescription_LogoMenu">Logo Menu Biljet</string>
+    <string name="contentDescription_Icono">Icono</string>
+
+    
+    <string name="TituloMenu"> Menu Principal </string>
+</resources>

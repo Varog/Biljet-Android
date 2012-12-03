@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+  
+<LinearLayout
+	    xmlns:android="http://schemas.android.com/apk/res/android"
+      android:layout_width="fill_parent"
+      android:layout_height="wrap_content" 
+      android:orientation="horizontal" >
+      
+	<ImageView
+	   	android:id="@+id/menuIcono"
+	   	android:layout_width="wrap_content"
+	   	android:layout_height="wrap_content"
+	   	android:contentDescription="@string/contentDescription_Icono"
+	   	android:padding="3dp" />
+			
+	     <LinearLayout
+      		android:layout_width="fill_parent"
+     		android:layout_height="wrap_content" 
+     		android:orientation="vertical" >
+	
+			<TextView android:id="@+id/menuTitulo"
+			  android:layout_width="fill_parent"
+			  android:layout_height="wrap_content"
+			  android:textStyle="bold"
+			  android:textSize="20sp"
+			  android:textColor="#FFFFFF" />
+		
+			<TextView android:id="@+id/menuSubTitulo"
+		   	  android:layout_width="fill_parent"
+		   	  android:layout_height="wrap_content"
+		   	  android:textStyle="normal"
+		   	  android:textSize="12sp"
+		   	  android:textColor="#FFFFFF"  />
+		</LinearLayout>
+</LinearLayout>
+   
+
+	
+
